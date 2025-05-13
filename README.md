@@ -1,4 +1,4 @@
-# projeto
+# portfolio
 <!DOCTYPE html>
 <html lang="pt-br">
 
@@ -14,17 +14,16 @@
     <header class="container text-center">
         <img src="img/avatar-perfil.png" alt="avatar da Fernanda" class="rounded-circle" width="150" height="150"
             srcset="">
-        <p class="lead">Eu sou Paola_</p>
-        <h1>Eu ensino Programação</h1>
-        <p>Sou estudante e possuo certificação em Network Ensino pensamento computacional para estudantes do Ensino
-            Fundamental e Médio. Ensino sobre pensamento computacional usando HTML, CSS e JavaScript. Veja os projetos
+        <p class="lead">Olá! me chamo Paola</p>
+        <h1>Eu sou das artes </h1>
+        <p>Sou estudante do Ensino Medio e possuo certificação em Network, Marketing Digital, Literatura, Escrita Criativa e Artes. Participei e dirigi eventos artisticos  . Veja os projetos
             que já desenvolvi!</p>
         <p>Minhas habilidades</p>
         <div>
-            <p class="badge bg-secondary">HTML</p>
-            <p class="badge bg-secondary">CSS</p>
-            <p class="badge bg-secondary">JavaScript</p>
-            <p class="badge bg-secondary">Scratch</p>
+            <p class="badge bg-secondary">Network</p>
+            <p class="badge bg-secondary">Marketing Digital</p>
+            <p class="badge bg-secondary">Literatura</p>
+            <p class="badge bg-secondary">Escrita Criativa</p>
         </div>
     </header>
     <main class="container mt-5">
