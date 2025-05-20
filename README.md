@@ -3,17 +3,15 @@
 <html lang="pt-br">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <link rel="stylesheet" href="style.css">
     <title>Meu portfólio</title>
-</head>
-
-<body>
-    <header class="container text-center">
-        <img src="img/avatar-perfil.png" alt="avatar da Fernanda" class="rounded-circle" width="150" height="150"
-            srcset="">
+ </head>
+ <body></body>
+</html>
+<body> 
+        <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset=""> 
         <p class="lead">Olá! me chamo Paola</p>
         <h1>Eu sou das artes </h1>
         <p>Sou estudante do Ensino Medio e possuo certificação em Network, Marketing Digital, Literatura, Escrita Criativa e Artes. Participei e dirigi eventos artisticos  . Veja os projetos
