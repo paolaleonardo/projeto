@@ -15,15 +15,14 @@
             srcset="">
         <p class="lead">Eu sou Paola__</p>
         <h1>Eu sou das Artes!</h1>
-        <p>Sou Estudante do Ensino Médio onde partipei e dirigi eventos artisticos, teatrais e administrativos. Tenho certificação em Marketing Digital, Networking, Escrita Criativa e Artes. Veja os projetos
+        <p>Sou Estudante do Ensino Médio onde partipei e dirigi eventos artisticos, teatrais e administrativos. Tenho certificação em Marketing Digital, Networking e Artes. Veja os projetos
             que já desenvolvi!</p>
         <p>Minhas habilidades</p>
         <div>
-            <p class="badge bg-secondary">HTML</p>
-            <p class="badge bg-secondary">CSS</p>
-            <p class="badge bg-secondary">JavaScript</p>
-            <p class="badge bg-secondary">Scratch</p>
-        </div>
+            <p class="badge bg-secondary">Administração</p>
+            <p class="badge bg-secondary">Educação Financeira</p>
+            <p class="badge bg-secondary">Escrita Criativa</p>
+             </div>
     </header>
     <main class="container mt-5">
         <h2>Meus projetos</h2>
