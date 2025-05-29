@@ -14,9 +14,8 @@
         <img src="img/avatar-perfil.png" alt="avatar da Paola" class="rounded-circle" width="150" height="150"
             srcset="">
         <p class="lead">Eu sou Paola__</p>
-        <h1>Eu ensino Programação</h1>
-        <p>Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional para estudantes do Ensino
-            Fundamental e Médio. Ensino sobre pensamento computacional usando HTML, CSS e JavaScript. Veja os projetos
+        <h1>Eu sou das Artes!</h1>
+        <p>Sou Estudante do Ensino Médio onde partipei e dirigi eventos artisticos, teatrais e administrativos. Tenho certificação em Marketing Digital, Networking, Escrita Criativa e Artes. Veja os projetos
             que já desenvolvi!</p>
         <p>Minhas habilidades</p>
         <div>
