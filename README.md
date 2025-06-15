@@ -202,7 +202,7 @@
         <h2>Entre em contato</h2>
         <div>
             <i class="bi bi-github"></i>
-            <a href="https://github.com/femascheti">GitHub</a>
+            <a href="https://github.com/paolaleonardo">GitHub</a>
         </div>
         <p class="my-5 text-center">© Copyright 2024. Produzido por Paola Vieira</p>
     </footer>
